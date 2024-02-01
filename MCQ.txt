@@ -1,0 +1,31 @@
+1.DEAFAULT the data type double-0.0D
+2.NOT A TOKEN -statement
+3.keyword in Java -strictfp
+4.not a keyword in Java -strictcp
+ 5.selection statements test only for equality ?-switch
+ 6.not a valid floating literal in exponent form ?--25.E05
+ 7.valid floating literal in exponent form ?-- 2.3E23
+8.alternative to getChars() -getBytes()
+9.range of the data type float - 1.4e-045 to 3.4e+038
+
+10.range of the data type double- 4.9e-324 to 1.8e+308
+11.numerical range of a char -0 to 65535
+12.convert all characters in a String into a character array ?
+ toCharArray()
+charAt()
+getChars()
+
+13. keywords is used to prevent content of a variable from being modified--final
+14.Which function is used to perform some action when the object is to be destroyed--finalize()
+
+
+
+
+
+
+
+
+
+
+IDENTIFIER
+DATATYPES
