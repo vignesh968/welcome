@@ -17,6 +17,7 @@ getChars()
 
 13. keywords is used to prevent content of a variable from being modified--final
 14.Which function is used to perform some action when the object is to be destroyed--finalize()
+15. Added some questions
 
 
 
